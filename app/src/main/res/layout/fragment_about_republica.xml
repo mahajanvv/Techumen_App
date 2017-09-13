@@ -1,0 +1,43 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#e5e5e5"
+    tools:context="com.example.dontknow.techumen.about_republica">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textStyle="bold"
+            android:textAlignment="gravity"
+            android:layout_margin="10dp"
+            android:textSize="15dp"
+            android:text=" Respublica \n
+Be the one!\n
+\n
+Description\n
+		Not able to present your leadership and management skills when you have them all? Then you have the right opportunity. Respublica, the event for testing various skills mainly focusing upon administrative and management skills of the students who wish to pursue their career in administrative,management or corporate fields.\n
+\n
+Round Details\n
+1. Conaissance – Consists of quiz checking the basic knowledge of  Current Affairs, GK, Multitasking, presence of mind,Perception Skills and many more\n
+2. Imperium – This round consists of Group Discussion based on Situation	Analysis.\n
+3. Spontaneto – This round will be surprise round testing your spontaneity and decision making capabilities through various activities .\n
+\n
+Prizes\n
+	Winner – ₹ 1500 /-\n
+	Runner Up – ₹ 1000 /-\n
+\n
+Entry Fee: 	₹ 80 /- participant, Single Participation\n
+		₹ 50/- for 2nd Round (for shortlisted)\n
+\n
+Contact\n
+Harshal Chavan - 8275302920\n
+Saurabh Sukhtankar– 9860442380\n
+" />
+    </ScrollView>
+
+</FrameLayout>

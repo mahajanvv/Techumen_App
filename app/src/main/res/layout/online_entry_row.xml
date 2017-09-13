@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="wrap_content"
+    android:layout_margin="15dp">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#ffffff"
+
+
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/idonline_entry_name"
+            android:textStyle="bold"
+            android:text="name of paticipant"
+            android:textSize="20dp"
+            android:padding="5dp"
+            android:textAlignment="center"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/idonline_entry_email"
+            android:layout_below="@+id/idonline_entry_name"
+            android:text="Email"
+            android:textSize="14dp"
+            android:padding="5dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/idonline_entry_phone"
+            android:layout_below="@+id/idonline_entry_email"
+            android:textAlignment="textEnd"
+            android:text="Phone"
+            android:textSize="14dp"
+            android:padding="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/idonline_entry_remaininig"
+            android:layout_below="@+id/idonline_entry_phone"
+            android:text="Remaining"
+            android:textStyle="bold"
+            android:textSize="15dp"
+            android:padding="5dp"/>
+        <ImageView
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:id="@+id/idonline_entry_mail"
+            android:layout_toRightOf="@+id/idonline_entry_email"
+            android:layout_below="@+id/idonline_entry_name"
+            android:src="@mipmap/ic_done_black_24dp"
+            android:visibility="gone"
+            android:padding="5dp"/>
+        <ImageView
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:id="@+id/idonline_entry_message"
+            android:layout_toRightOf="@+id/idonline_entry_phone"
+            android:layout_below="@+id/idonline_entry_email"
+            android:src="@mipmap/ic_done_black_24dp"
+            android:visibility="gone"
+            android:padding="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/idonline_entry_eventname"
+            android:layout_below="@+id/idonline_entry_remaininig"
+            android:text="event name"
+            android:textSize="13dp"
+            android:textStyle="bold"
+            android:padding="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/idonline_entry_memberemail"
+            android:layout_below="@+id/idonline_entry_eventname"
+            android:text="member email"
+            android:textSize="13dp"
+            android:textStyle="bold"
+            android:textAlignment="viewEnd"
+            android:padding="5dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/idonline_entry_date"
+            android:layout_below="@+id/idonline_entry_memberemail"
+            android:text="date of entry"
+            android:textSize="13dp"
+            android:textStyle="bold"
+            android:textAlignment="viewEnd"
+            android:padding="5dp"/>
+    </RelativeLayout>
+</android.support.v7.widget.CardView>

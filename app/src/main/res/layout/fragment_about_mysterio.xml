@@ -1,0 +1,55 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#e5e5e5"
+    tools:context="com.example.dontknow.techumen.about_mysterio">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:textAlignment="gravity"
+            android:textStyle="bold"
+            android:textSize="15dp"
+            android:text="Mysterio 3.0\n
+-it’s not a kids’ game\n
+Event Name: \n
+Mysterio 3.0 – It’s not a kids game!!!\n
+Brief            :\n
+		Mysterio 3.0 is traditional and most fascinating event of techumen 2k17.As the name suggests Mysterio 3.0 is going to be full of mysteries, twists, turns and full of suspense. Based on the idea of the plots of CID, Sherlock Holmes we have designed the event which will check your logical thinking and reasoning, presence of mind and how you make the things simpler in your own way. So, read, think, understand and implement it in your own “Sherlock” way.\n
+		Mysterio is a kind of event which will not only improve the logical thinking but it will also add up many unexplored things in your personality which will help throughout your life.so, tighten your seat belts and feed your pain because “It’s not a kids game”!!! \n
+\n
+Rounds:\n
+ \n
+	Round 1: - A Step Away (Eliminator)\n
+		A round full of logical puzzles, riddles and will check the aptitude skills and with this you are “A Step Away!!”\n
+	Round 2:-The Story Begins(Eliminator)\n
+		It’s surprise, the round where “The Story Begins”!!\n
+	Round 3 :-The Final Destination\n
+		And here you head up towards the “Final Destination”!!!\n
+Entry Fees:(Two participants per team)\n
+	Round 1 – 150 /- (per team)\n
+	Round 2 – 50 /- (per team)\n
+	(No entry fees for final round)\n
+	\n
+Winning Price:\n
+\n
+	Winner      -  1500/- + T-shirt + certificates\n
+	Runner up -  1000/- + T-shirt + certificate\n
+\n
+Contact Number:\n
+	Shubham Patil – 9420691422\n
+	Kalyani kalamb – 9552179936 \n
+
+
+
+"/>
+
+    </ScrollView>
+</FrameLayout>

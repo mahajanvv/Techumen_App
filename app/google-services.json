@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "333940532840",
+    "firebase_url": "https://techumen-e6273.firebaseio.com",
+    "project_id": "techumen-e6273",
+    "storage_bucket": "techumen-e6273.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333940532840:android:3d3db6f16bdd1d2c",
+        "android_client_info": {
+          "package_name": "com.example.dontknow.techumen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333940532840-r9tmkkck9uequrfgbff6m4i2hbki1lts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dontknow.techumen",
+            "certificate_hash": "04ba3411f7b383cfee02a5b3b393fec0248e7006"
+          }
+        },
+        {
+          "client_id": "333940532840-vqssqvhpq8ko2ibsqsjkgigcoegg8u4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT95CYnWIeXYNRWcgIoY5w0AQ7_0oqDl8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333940532840-vqssqvhpq8ko2ibsqsjkgigcoegg8u4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

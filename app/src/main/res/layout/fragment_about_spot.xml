@@ -1,0 +1,78 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#e5e5e5"
+    tools:context="com.example.dontknow.techumen.about_spot">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textStyle="bold"
+            android:textAlignment="gravity"
+            android:layout_margin="10dp"
+            android:textSize="15dp"
+            android:text="Entry Fee: Rs. 250/- per team (5x5)\n
+
+Counter Strike: Rules\n
+Any of the following rules can be changed without prior notifications:\n
+General terms\n
+•	The Half-Life Counter-Strike PC game championship 5x5 (team play, 5 members per team).\n
+•	Game version - Half-Life Counter-Strike 1.6\n
+•	The Tournament Organizers reserves the right to cancel or modify the tournament rules if fraud, technical failures or any other factor beyond reasonable control, impairs the integrity of the tournament.\n
+•
+Tournament game rules\n
+•	A game consists of 2 periods, each period including 8 rounds. A round lasts 2:00 minutes. One period as terrorists and the other as counter-terrorists for each team.\n
+•	C4 timer for each round will b of 45 sec.\n
+•	In the incident of a tie, there will be a tie breaker match.\n
+•	1st round (Elimination) will be played in fy_buzzkill map.\n
+*The Death cam is disabled by default.\n
+Official tournament maps:\n
+•	de_dust2\n
+•	de_inferno\n
+•	de_dust\n
+•	de_nuke\n
+•	fy_buzzkill\n
+\n
+Permitted console variables and other settings\n
+The players have the right to modify only permitted console variables and game settings. The list of permitted console variables: * adjust_crosshair\n
+•	Sensitivity\n
+•	Volume\n
+•	cl_dynamiccrosshair\n
+•	cl_minmodels\n
+•	zoom_sensitivity_ratio\n
+Tactical shield use is forbidden.\n
+Weapon bind and team messages are allowed.\n
+The accepted game server settings\n
+In cases of disconnections and pc crashes:\n
+•	Disconnection is any network connection break occurring during the match and caused by system faults, network problems, PC errors or power failure etc.\n
+•	In case of disconnection in first round while none of players were killed round is restart.\n
+•	In case of disconnection in any other round, game is paused until the last player has connected.* In case of disconnection of two or more players before 6th round game period is restarted; on 7th round or later - game score is recorded and game period is restarted.\n
+•	In case of an intentional disconnection, the offending team might be announced the loser.\n
+Cheating and Rule Violation\n
+•	The Server Admin has the right to disqualify and dismiss any registered player from thetournament, at their discretion, at any stage of the tournament, for any reason, with no prior warning to the player.\n
+•	Any protests or disagreements with tournament rulings must be made directly to the Server Adminin a reasonable manner at the time of the incident, at which time a prompt decision will be made.\n
+The Server Admin's decisions are final.\n
+•	Any competitor or team attempting to use ANY exploit in a map shall be immediately disqualifiedand may be removed from the event.\n
+•	Any form of cheating, including but not limited to intentional disconnects, ping flooding, servercrashing, etc., will result in immediate disqualification of the competitor and/or team.\n
+The below items are considered as cheating:\n
+•	Using cheat software;\n
+•	Intentional disconnection;\n
+•	Using any settings other than standard and permitted;4. Using game map bugs (see here);\n
+5. Using scroll bind for duck.\n
+
+
+
+NEES FOR SPEED:\n
+	Entry fee : 50/per person\n
+	max entries : infinity\n
+	\n
+map will be decide on time.\n
+" />
+    </ScrollView>
+
+</FrameLayout>

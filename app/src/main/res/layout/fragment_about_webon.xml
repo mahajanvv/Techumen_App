@@ -1,0 +1,58 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#e5e5e5"
+    tools:context="com.example.dontknow.techumen.about_webon">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textStyle="bold"
+            android:textAlignment="gravity"
+            android:layout_margin="10dp"
+            android:textSize="15dp"
+            android:text=" DJANGO WORKSHOP 8 TH OF OCT.\n
+
+Fees: RS 150\n
+MAX COUNT: 100\n
+Prize:\n
+ Winner: T-Shirt and RS 1500\n
+ 1 st Runner up: T-Shirt and RS 1000\n
+ 2 nd Runner up: T-Shirt and RS 500- (OPTIONAL)\n
+Structure:\n
+Theme: Blog\n
+Content :\n
+1)HTML\n
+2)CSS\n
+3)DJANGO\n
+ INSTRUCTIONS WHILE TAKING ENTRIES:\n
+ 1. Make sure that participant has Laptop or\n
+not.And also note configuration of laptop.\n
+ 2. Tell them that at the end we will be having\n
+complete website .As well tell them that we have\n
+demonstration of hosting .\n
+ 3. Mention at end there will be contest and\n
+prizes(T-shirt and money).\n
+ 4. Tell them Company which uses DJNAGO:\n
+o Instagram. ...\n
+o Mozilla Firefox. ...\n
+o Pinterest.\n
+o NASA. ...\n
+ 5. Why Django??\n
+ - Easy to learn, Easy to use\n
+ - Readable Code Format\n
+ - Most Widely used\n
+ - Secure than PHP\n
+ - FullStack Developer\n
+Perks:\n
+Certificate ,Complete website as project,prizes and\n
+refreshment\n
+ " />
+    </ScrollView>
+
+</FrameLayout>
